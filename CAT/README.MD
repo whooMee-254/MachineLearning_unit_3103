@@ -15,7 +15,6 @@ Educational institutions often seek ways to identify students that are at risk o
 
 1. Data Preprocessing
    - Loaded and parsed the semicolon-separated dataset.
-   - Cleaned the column names using `str.strip()`.
    - Encoded categorical variables using Label Encoding and One-Hot Encoding.
    - Created a binary `pass` column: students with average grade ≥ 10 are marked as "Pass".
 
